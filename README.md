@@ -19,5 +19,5 @@ Y. Eren Okur
 
 ---
 
-Bu eğitimle gelişmeme destek olan Patika ve Kodluyoruz'a, bununla birlikte deneyimlerini bizimle ücretsiz bir şekilde paylaşan Hakan Yalçınkaya Hocama teşekkürlerimi iletiyorum.
+Bu eğitimle gelişmeme ücretsiz bir şekilde destek olan Patika ve Kodluyoruz'a, bununla birlikte deneyimlerini bizimle  paylaşan Hakan Yalçınkaya Hocama teşekkürlerimi iletiyorum.
 
