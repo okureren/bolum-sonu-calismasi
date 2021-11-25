@@ -6,4 +6,4 @@ Y. Eren Okur
 
 ## Açıklama:
 
- [Patika](https://www.patika.dev/) End of the Chapter of HTML
+End of the Chapter of HTML [Patika](https://www.patika.dev/)
